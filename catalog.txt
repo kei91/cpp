@@ -1,0 +1,13 @@
+Strings Guitar 300
+Strings banjo 200
+Keyboards piano 200
+Keyboards grand 250
+Keyboards clavecin 300
+Wind flute 500
+Wind harm 600
+Strings violin 500
+Keyboards smt 600
+Strings guitar3 100
+Strings guitar56 300
+Wind smtWind 324
+Strings smtsmt 235
